@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.semanticTokenColorCustomizations": {
+      "rules": {
+        "keyword": "#00ff95",
+        "variable": "#99cc00",
+        "parameter": "#009900",
+        "module": "#f80000a4",
+        "function": "#ffda06",
+        "property": "#ff92ff",
+        //"*.typeHint": "#0066cc",
+        //"support.function": "#0066cc",
+        "typeParameter": "#00ffff",
+        "type": "#055eb8",
+        //"string": "#0066cc"
+        "method": "#4ea3a3",
+        "class": "#ffff33d3",
+        "namespace": "#ec0eec8f",
+        //"struct": "#ffff66",
+        "string": "#7a0101a9",
+        "operator": "#0400da",
+        "*.decorator": "#ffbb00",
+        "event": "#00ff55",
+        "label": "#7d979b",
+        "interface": "#a77c7c91",
+        "enum": "#686868"
+
+      }  
+    },
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#009900",
+        //"editor.background":"#1c1c1c",
+    },
